@@ -1,0 +1,1 @@
+# homebridge-broadlink-speaker
